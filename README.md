@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a comparative study between Sparse (BM25) and Dense (BERT-based) Information Retrieval systems applied to the Legal Case Retrieval (LCR) task.
 
-This project was developed as part of **MATH3856 (Assignment 3)** and targets the **COLIEE 2025 Task 1** challenge: finding relevant prior cases that support or conflict with a given query case.
+This project was developed as benchmarks peformance through the **COLIEE 2025 Task 1** challenge: finding relevant prior cases that support or conflict with a given query case.
 
 ## 📄 Abstract & Key Findings
 
