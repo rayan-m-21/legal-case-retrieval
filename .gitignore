@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Generated output files (uncomment if you don't want to track these)
+# output/embeddings/
+# output/rankings/
+# output/results/
+
+# Preprocessed data (can be regenerated)
+data/clean_train_files/
+data/clean_test_files/
+
+# Model cache (Hugging Face)
+.cache/
+*.bin
+*.safetensors
+
+# Large files
+*.npz
+*.pkl
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
